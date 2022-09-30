@@ -1,4 +1,4 @@
-TARGETS := oh-one-one balanced end-oh-one-one
+TARGETS := even-ab oh-one-one balanced end-oh-one-one
 
 all: $(TARGETS)
 
